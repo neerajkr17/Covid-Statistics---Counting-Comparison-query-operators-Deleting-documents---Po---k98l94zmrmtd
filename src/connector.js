@@ -1,4 +1,3 @@
-
 //const mongodb = require('mongodb');
 
 const mongoURI = "mongodb://localhost:27017" + "/covidtally"
